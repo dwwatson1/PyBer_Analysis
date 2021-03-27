@@ -7,7 +7,7 @@
 ### Analysis Resources
 * Data Sources: [PyBer_ride_data](https://github.com/dwwatson1/PyBer_Analysis/blob/main/Resources/PyBer_ride_data.csv), [city_data](https://github.com/dwwatson1/PyBer_Analysis/blob/main/Resources/city_data.csv), and [ride_data](https://github.com/dwwatson1/PyBer_Analysis/blob/main/Resources/ride_data.csv)
 * Software: Jupyter Notebook 6.1.4 
-* Notebooks: [original analysis](https://github.com/dwwatson1/School_District_Analysis/blob/main/PyCitySchools.ipynb) & [new analysis](https://github.com/dwwatson1/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
+* Notebooks: [PyBer](https://github.com/dwwatson1/PyBer_Analysis/blob/main/PyBer.ipynb) & [PyBer_Challenge](https://github.com/dwwatson1/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)
  
 ### Overview of Results 
 
