@@ -27,13 +27,20 @@ The average fare for urban rides never crossed $30 but as shown by the number of
 
 ![Fig.5](https://github.com/dwwatson1/PyBer_Analysis/blob/main/analysis/Fig5.png)
 
-Looking at a four month snapshot from January - April 2019, we can see the same pattern as mentioned above. Urban areas consistently yielded the highest in total fares each week as it never dipped below $1,500 a week. Suburban areas never crossed the $1,500 per week in total fares but was consistently above the $500 mark. Rural areas struggled to generate much in total fares as it only cross the $500 per week threshold only once and dipping below $100 twice.
+Looking at a four month snapshot from January - April 2019, we can see the same pattern as mentioned above. Urban areas consistently yielded the highest in total fares each week as it never dipped below $1,500 a week. Suburban areas never crossed the $1,500 per week in total fares but was consistently above the $500 mark. Rural areas struggled to generate much in total fares as it only cross the $500 per week threshold only once and dipping below $100 twice. Weekly total fares by city type in this timeframe are shown in the line chart below.
 
-![PyBer_fare_summary]https://github.com/dwwatson1/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png
+![PyBer_fare_summary](https://github.com/dwwatson1/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 ## Summary of the Analysis
 
-### Overview
+### Business Recommendations
+
+-  Urban areas generate the most in total fares and should be the main focus for PyBer's expansion in the next 5 years.
+-  Suburban and rural areas shouldn't be overlooked. Looking at the weekly total fares in the snapshot above, the numbers are fairly consistent, even though they're lower than urban areas. They both account for 33% of total fares, which is substantial.
+-  There is specific untapped potential in rural areas. We go into more detail in the next section, but as broadband, 5G cell service, and credit card usage expand in rural areas, it could be lucrative for PyBer because of the higher average fare per driver and ride. Expansion in rural areas will take longer and should be a part of PyBer's 10-15 year plan.
 
 ### Important Things to Note
   
+It's important to note that the length (time and miles driven) of PyBer rides is a key missing data point. This could provide context as to why the average fare per ride and driver are much higher than any other city type and why the number of riders and drivers are so few. It's likely that the PyBer rides in rural areas take longer given that people who live in these rural areas need to travel longer distances. Upon further research into other ride-hailing apps like Uber and Lyft, there is a [urban-rural divide](https://www.vox.com/the-goods/2019/1/11/18179036/uber-lyft-rural-areas-subscription-model) in terms of usage. 
+
+This divide is compounded by the lack of reliable broadband internet and credit card usage, as suggested in the research mentioned in the article. This makes it harder for people in rural communities to use an app, which requires cell service or WiFi. People in rural areas could also own their own cars to get places where parking isn't hard to find, unlike in urban areas. These reasons could also explain why the demand for PyBer rides in rural areas is so low. However, this isn't always the case and shouldn't be overlooked as a market for potential expansion. 
