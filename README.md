@@ -23,7 +23,7 @@ Even though urban areas had the lowest average fare per ride and per driver, the
 
 ![Fig.1](https://github.com/dwwatson1/PyBer_Analysis/blob/main/analysis/Fig1.png)
 
-The average fare for urban rides never crossed $30 but as shown by the number of red plots and the size of the plots, there was a high demand for rides and drivers. Because of this demand, total fares for urban areas account for nearly $40,000 total and nearly 63% of all PyBer fares.
+The average fare for urban rides never crossed $30 but as shown by the number of red plots and the size of the plots, there was a high demand for rides and drivers. Because of this demand, total fares for urban areas account for nearly **$40,000** and **nearly 63%** of all PyBer fares.
 
 ![Fig.5](https://github.com/dwwatson1/PyBer_Analysis/blob/main/analysis/Fig5.png)
 
