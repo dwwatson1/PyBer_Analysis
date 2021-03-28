@@ -2,6 +2,8 @@
 
 ## Overview of the Analysis
 
+The purpose of this analysis was to analyze and visualize ride-sharing data from PyBer, a python-based ride-sharing app company, using the power of Python, Pandas, and Matplotlib. The CEO of PyBer, V. Isualize, tasked us with creating a report to show how the company's ride-sharing data differs by city type. These differences will help the CEO and other key decision-makers at PyBer understand which city types will yield the most profit for a growing company.
+
 ## Results of the Analysis
 
 ### Analysis Resources
@@ -11,9 +13,10 @@
  
 ### Overview of Results 
 
-### How is the district summary affected?
+
 
 ## Summary of the Analysis
+
 ### Overview
 
 ### Important Things to Note
